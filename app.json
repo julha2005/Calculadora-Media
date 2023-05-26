@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Desafio1",
-    "slug": "Desafio1",
+    "name": "CalcularMedia",
+    "slug": "CalcularMedia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
